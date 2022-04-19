@@ -11,3 +11,7 @@ Coming soon ;)
 Kanot has returned to its development, after losing the original code and being rewritten from scratch.
 
 Nobody knows, not even me, when I'll get it out, I just know that it will have many things for its use.
+
+
+
+# Leaving a star is appreciated to support my work 
