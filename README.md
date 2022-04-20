@@ -21,5 +21,6 @@ Content update: Rich presence on discord to show what you do, you can turn it of
 # (4/20/22) Update - Webhook Spammer
 
 ![webhook](https://i.imgur.com/Fki5k26.png)
+![2web](https://i.imgur.com/MfuYS06.png)
 
 # Leaving a star is appreciated to support my work 
