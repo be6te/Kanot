@@ -14,11 +14,13 @@ class RichPresence():
 
     with open('Kanot/RPC.json') as f:
         get = json.load(f)
-        
-    if get['RichPresence']['true/false'] == 'true':
-        Rich = Presence(RPC.id)
-        Rich.connect()
-    elif get['RichPresence']['true/false'] == 'false':
-        pass
-    else:
+    try:
+        if get['RichPresence']['true/false'] == 'true':
+            Rich = Presence(RPC.id)
+            Rich.connect()
+        elif get['RichPresence']['true/false'] == 'false':
+            pass
+        else:
+            pass
+    except:
         pass
