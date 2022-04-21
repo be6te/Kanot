@@ -1,0 +1,4 @@
+discord
+pypresence
+requests
+colorama

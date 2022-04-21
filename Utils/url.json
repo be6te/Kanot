@@ -1,0 +1,9 @@
+{
+    "base":{
+        "url": "https://raw.githubusercontent.com/lbeete/Kanot/main/GetVersion.json",
+        "baseURL": "https://github.com"      
+    },
+    "typer":{
+        "type_method": "get"
+    }
+}

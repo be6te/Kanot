@@ -1,0 +1,13 @@
+# Kanot v1.0 - Beta test
+
+Kanot is a discord nuke made 100% in python.
+
+# "Story" xD
+
+Kanot at first was going to be a discord bot but then it changed plans, when Kanot started its development, not even a backup was released and the code was completely lost, but a few weeks ago I started to rewrite the code, and what is a beta version that will be updated over time.
+
+# Install
+
+Step one: install python [https://python.org]
+Step two: open the terminal in the current folder and put the following: pip install -r requirements or just open the install.bat
+step three: get the token from the victim's account or yours if it's to test it [I don't recommend using the tokenfuck with your account]

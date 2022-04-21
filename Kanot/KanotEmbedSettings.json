@@ -1,0 +1,8 @@
+{
+    "embed": {
+        "webhook_name": "hola",
+        "message_amount": "100",
+        "embed_message": "hola",
+        "embed_title": "hola"
+    }
+}
