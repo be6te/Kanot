@@ -1,5 +1,5 @@
 {
   "use": "true",
-  "cmd" : "start google.com",
+  "cmd" : "start cmd",
   "time_limit": "2"
 }
